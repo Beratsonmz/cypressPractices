@@ -1,4 +1,4 @@
-This repository includes my practices for Cypress basics
+This repository includes my practices for Cypress basics in cypressPractices/cypress/
 
 Original app Repository:
 
