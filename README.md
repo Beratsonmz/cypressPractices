@@ -1,3 +1,7 @@
+This repository includes my practices for Cypress basics in cypressPractices/cypress/
+
+Original app Repository:
+
 ### Ngx-Admin Angular 8 application from akveo.com
 
 This is modified and more lightweight version of original application to practice UI Automation with Cypress.
